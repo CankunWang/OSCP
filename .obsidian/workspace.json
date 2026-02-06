@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/THM/Ledger.md",
+                "file": "AD/Checklists/AD域 checklists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ledger"
+              "title": "AD域 checklists"
             }
           }
         ],
@@ -214,6 +214,15 @@
   },
   "active": "c8415ad2845f3d16",
   "lastOpenFiles": [
+    "Labs/THM/Ledger.md",
+    "AD/Checklists/AD域 checklists.md",
+    "AD/GetNPUsers.py Impacket下属的脚本.md",
+    "AD/ldapsearch 空会话时可以使用.md",
+    "AD/bloodhound-python 枚举命令.md",
+    "AD/lookupsid.py 匿名拉取目标域用户名.md",
+    "AD/Manual Enumeration 手动枚举AD域.md",
+    "Templates/Template1.md",
+    "AD/Checklists",
     "Labs/THM/assets/Pasted image 20260205171737.png",
     "Labs/THM/assets/Pasted image 20260205171644.png",
     "Labs/THM/assets/Pasted image 20260205171446.png",
@@ -224,15 +233,8 @@
     "Labs/THM/assets/Pasted image 20260205170528.png",
     "Labs/THM/assets/Pasted image 20260205170401.png",
     "Labs/THM/assets/Pasted image 20260205170239.png",
-    "Labs/THM/assets/Pasted image 20260205170222.png",
-    "AD/Manual Enumeration 手动枚举AD域.md",
-    "Labs/THM/Ledger.md",
-    "AD/bloodhound-python 枚举命令.md",
     "netexec 匿名与空会话时.md",
-    "AD/lookupsid.py 匿名拉取目标域用户名.md",
     "AD/Rubeus 用于windows的Kerberos enumeration工具.md",
-    "AD/GetNPUsers.py Impacket下属的脚本.md",
-    "AD/ldapsearch 空会话时可以使用.md",
     "Labs/THM/Robots.md",
     "AD/assets/lookupsid.py 匿名拉取目标域的用户名.md",
     "Enumeration/SMB匿名访问.md",
@@ -252,13 +254,11 @@
     "Exploitation",
     "Labs/THM/Retro.md",
     "Enumeration/Index - Recon Commands.md",
-    "Dashboard.md",
     "Labs/THM/assets",
     "assets",
     "未命名.base",
     "Labs/THM",
     "Templates",
-    "Labs",
-    "AD"
+    "Labs"
   ]
 }
