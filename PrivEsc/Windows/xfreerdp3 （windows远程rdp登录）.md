@@ -9,3 +9,4 @@ OS: windows
 ---
 使用xfreerdp进行远程windows登录，开启剪贴板；
 前提是目标开放了rdp端口
+
