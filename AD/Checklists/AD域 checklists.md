@@ -46,6 +46,12 @@ cat/type flag from its original location.
 	```
 	nmap --script smb2-security-mode.nse -p445 10.0.0.0/24
 	```
+	- [ ] crackmapexec枚举
+```
+crackmapexec smb ip
+```
+- [ ] [[../kerbrute脚本枚举用户名]]
+	- [ ] 
 - [ ] Gather domain information with LDAPDomainDump
 	- [ ] 使用nxc的-ldap进行枚举
 	- [ ] 或者run:
