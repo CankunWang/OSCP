@@ -97,7 +97,7 @@ evil-winrm -i 10.80.154.190 -u 'j.smith' -H '9545b61858c043477c350ae86c37b32f'
 ```
 type C:\Users\o.armstrong\Desktop\notes.txt > C:\Scripts\loot.txt
 ```
-	I first want to check the content of the notes.txt. And then I get the output files.
+	I first want to check the content of the notes.txt. And then I get the output files. The content shows that this is highly possible a auto run script. May be I can use this to achieve remote code execution.
 
 ![[assets/Pasted image 20260224183924.png]]
 	Next, I used whoami to verify who run the script.
