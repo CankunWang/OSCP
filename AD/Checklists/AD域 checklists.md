@@ -71,7 +71,21 @@ nxc ldap MARVEL.local \
   --dns-tcp \
   -c all
 ```
-
-
-
+- [ ] 枚举ad用户属性
+```
+Get-ADUser j.smith -Properties *
+```
+重点看：
+- MemberOf
+- ScriptPath
+- Description
+- ACL 相关字段
+- [ ] 针对某个特定组进行枚举
+```
+Get-ADGroup "Remote Management Users" -Properties *
+```
+重点看：
+	是否包含高权限用户
+	是否是特殊组
+- [ ] 针对某个特定组进行枚举
 

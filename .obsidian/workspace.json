@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/THM/K2-base3.md",
+                "file": "AD/RBCD attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K2-base3"
+              "title": "RBCD attack"
             }
           }
         ],
@@ -214,6 +214,14 @@
   },
   "active": "c8415ad2845f3d16",
   "lastOpenFiles": [
+    "PrivEsc/Windows/文件系统错误配置.md",
+    "AD/RBCD attack.md",
+    "PrivEsc/Windows/msf后渗透提权路径检查.md",
+    "PrivEsc/Windows/弱权限服务文件.md",
+    "PrivEsc/Windows/服务配置错误.md",
+    "AD/Checklists/AD域 checklists.md",
+    "AD/Checklists/Windows提权 checklist.md",
+    "Labs/THM/K2-base3.md",
     "Labs/THM/assets/Pasted image 20260224220448.png",
     "Labs/THM/assets/Pasted image 20260224220332.png",
     "Labs/THM/assets/Pasted image 20260224220222.png",
@@ -224,9 +232,6 @@
     "Labs/THM/assets/Pasted image 20260224213315.png",
     "Labs/THM/assets/Pasted image 20260224213011.png",
     "Labs/THM/assets/Pasted image 20260224212401.png",
-    "AD/Checklists/AD域 checklists.md",
-    "Labs/THM/K2-base3.md",
-    "Labs/THM/assets/Pasted image 20260224210618.png",
     "Labs/THM/K2-base2.md",
     "AD/kerbrute脚本枚举用户名.md",
     "AD/ldapsearch 空会话时可以使用.md",
@@ -244,12 +249,7 @@
     "Labs/THM/Robots.md",
     "PrivEsc/Linux/容器逃逸 enumeration相关命令.md",
     "PrivEsc/Linux/内网不可达，通过pipe in out解决.md",
-    "PrivEsc/Windows/弱权限服务文件.md",
     "Labs/THM/Ledger.md",
-    "Labs/THM/PT1-web.md",
-    "Templates/Template1.md",
-    "Reverse shell/Windows/bat文件.md",
-    "PrivEsc/Windows/xfreerdp3 （windows远程rdp登录）.md",
     "Reverse shell/Linux",
     "Reverse shell/Windows",
     "Reverse shell",
