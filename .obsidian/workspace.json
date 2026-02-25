@@ -226,8 +226,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c95c5a11f5843afb",
+  "active": "c9a17fd0c37d909b",
   "lastOpenFiles": [
+    "Labs/THM/xVrOORxq",
+    "Labs/THM/k10wVp5W",
+    "Labs/THM/4hKnTjcX",
+    "Labs/THM/6iUYF5wr",
+    "Labs/THM/E7t7SgIt",
+    "Labs/THM/Xv2iX3m3",
+    "Labs/THM/56Zy3P2Y",
+    "Labs/THM/lATJzOtg",
     "Labs/THM/Stealth.md",
     "Labs/THM/Retro.md",
     "Labs/THM/Robots.md",
@@ -264,15 +272,7 @@
     "AD/获取凭据后建立远程连接（powershell).md",
     "AD/lookupsid.py 匿名拉取目标域用户名.md",
     "AD/netexec 匿名与空会话时.md",
-    "Enumeration/LLMNR 和 NBT-NS Poisoning.md",
     "Reverse shell/Linux",
-    "Reverse shell/Windows",
-    "Reverse shell",
-    "AD/Checklists",
-    "AD/assets",
-    "Exploitation/assets",
-    "Exploitation",
-    "Labs/THM/assets",
-    "assets"
+    "Reverse shell/Windows"
   ]
 }
