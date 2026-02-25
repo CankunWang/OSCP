@@ -1,6 +1,6 @@
 ---
 os: windows
-syntax:
+syntax: 机器A 被允许代表任何用户访问 机器B
 ---
 ### 前置检查：
 #### Machine account Quota:
