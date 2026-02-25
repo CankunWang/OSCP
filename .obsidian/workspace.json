@@ -228,10 +228,13 @@
   },
   "active": "c95c5a11f5843afb",
   "lastOpenFiles": [
-    "AD/RBCD attack.md",
-    "test.md",
-    "PrivEsc/Windows/文件系统错误配置.md",
+    "Labs/THM/K2-base1.md",
     "PrivEsc/Windows/msf后渗透提权路径检查.md",
+    "test.md",
+    "README.md",
+    "g7IIXXAE",
+    "AD/RBCD attack.md",
+    "PrivEsc/Windows/文件系统错误配置.md",
     "PrivEsc/Windows/弱权限服务文件.md",
     "PrivEsc/Windows/服务配置错误.md",
     "AD/Checklists/AD域 checklists.md",
@@ -257,13 +260,11 @@
     "AD/netexec 匿名与空会话时.md",
     "Enumeration/LLMNR 和 NBT-NS Poisoning.md",
     "Enumeration/Nmap快速批量扫描.md",
-    "Labs/THM/K2-base1.md",
     "Labs/THM/Road.md",
     "PrivEsc/Linux/敏感目录.md",
     "Enumeration/Gobuster快速目录枚举.md",
     "Labs/THM/Robots.md",
     "PrivEsc/Linux/容器逃逸 enumeration相关命令.md",
-    "PrivEsc/Linux/内网不可达，通过pipe in out解决.md",
     "Reverse shell/Linux",
     "Reverse shell/Windows",
     "Reverse shell",
@@ -272,7 +273,6 @@
     "Exploitation/assets",
     "Exploitation",
     "Labs/THM/assets",
-    "assets",
-    "未命名.base"
+    "assets"
   ]
 }
