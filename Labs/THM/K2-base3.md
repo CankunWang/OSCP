@@ -87,7 +87,7 @@ evil-winrm -i 10.80.154.190 -u 'j.smith' -H '9545b61858c043477c350ae86c37b32f'
 ![[assets/Pasted image 20260224181105.png]]
 
 ![[assets/Pasted image 20260224181119.png]]
-	J.smith and O.armstrong are in the same domain local group.  I check the Sciprt directory and found that Armstrong and smith both has fully access to this directory.
+	J.smith and O.armstrong are in the same domain local group.  I check the Sciprt directory and found that Armstrong and smith both has fully access to this directory, and there is a file called backup.bat.
 
 ![[assets/Pasted image 20260224182141.png]]
 	And I can delete the backup.bat file. So I delete it and substitute it with my backup.bat file.
