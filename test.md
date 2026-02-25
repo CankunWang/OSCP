@@ -1,1 +1,0 @@
-![](<assets/Pasted image 20260211182407.png>)
