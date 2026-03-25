@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Labs/THM/K2-base2.md",
+                "file": "Labs/THM/Theseus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K2-base2"
+              "title": "Theseus"
             }
           }
         ],
@@ -209,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +226,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9a17fd0c37d909b",
+  "active": "c95c5a11f5843afb",
   "lastOpenFiles": [
+    "Labs/THM/Theseus - 命令速查.md",
+    "PrivEsc/Linux/Linux本地快速枚举命令.md",
+    "PrivEsc/Linux/SSH多跳与非交互密码登录.md",
+    "Exploitation/Jinja2 SSTI.md",
+    "Enumeration/Nmap 内网存活扫描.md",
+    "Enumeration/ffuf 参数枚举.md",
+    "Labs/THM/Theseus.md",
+    "Labs/THM/assets/{3C74B711-D1F3-41A9-ACA5-5FB191DF40E9}.png",
+    "Labs/THM/assets/{42EFB247-90B1-4A9F-907B-14979E9BB80E}.png",
+    "Labs/THM/assets/{3D96027D-BA6C-4BE8-AE4E-6C74C1CB7DE6}.png",
+    "Labs/THM/assets/{44EE3854-3F46-41F0-B11A-E66B9AA9B55A}.png",
+    "Labs/THM/assets/{51764C4A-3FE2-46C9-AE7B-5A26C728FE77}.png",
+    "Labs/THM/assets/{F3916EF2-88A2-4ABB-8CA6-73662EA17424}.png",
+    "Labs/THM/assets/{D0E9724F-F686-4331-8F36-F4A703E67650}.png",
+    "Labs/THM/assets/Pasted image 20260325183723.png",
+    "Labs/THM/assets/Pasted image 20260325182201.png",
+    "Labs/THM/assets/{CB75527C-432A-427F-9272-DBEA88112C5A}.png",
+    "Labs/THM/Road.md",
+    "Labs/THM/Retro.md",
+    "Labs/THM/Ledger.md",
+    "Labs/THM/Avenger.md",
+    "Labs/THM/Stealth.md",
+    "Labs/THM/Robots.md",
+    "Labs/THM/K2-base3.md",
+    "Labs/THM/K2-base2.md",
+    "Labs/THM/K2-base1.md",
     "Labs/THM/xVrOORxq",
     "Labs/THM/k10wVp5W",
     "Labs/THM/4hKnTjcX",
@@ -236,15 +262,6 @@
     "Labs/THM/Xv2iX3m3",
     "Labs/THM/56Zy3P2Y",
     "Labs/THM/lATJzOtg",
-    "Labs/THM/Stealth.md",
-    "Labs/THM/Retro.md",
-    "Labs/THM/Robots.md",
-    "Labs/THM/Road.md",
-    "Labs/THM/K2-base3.md",
-    "Labs/THM/Ledger.md",
-    "Labs/THM/K2-base2.md",
-    "Labs/THM/K2-base1.md",
-    "Labs/THM/Avenger.md",
     "test.md",
     "PrivEsc/Windows/msf后渗透提权路径检查.md",
     "README.md",
@@ -255,24 +272,7 @@
     "PrivEsc/Windows/服务配置错误.md",
     "AD/Checklists/AD域 checklists.md",
     "AD/Checklists/Windows提权 checklist.md",
-    "Labs/THM/assets/Pasted image 20260224220448.png",
-    "Labs/THM/assets/Pasted image 20260224220332.png",
-    "Labs/THM/assets/Pasted image 20260224220222.png",
-    "Labs/THM/assets/Pasted image 20260224220126.png",
-    "Labs/THM/assets/Pasted image 20260224215205.png",
-    "Labs/THM/assets/Pasted image 20260224215105.png",
-    "Labs/THM/assets/Pasted image 20260224214438.png",
-    "Labs/THM/assets/Pasted image 20260224213315.png",
-    "Labs/THM/assets/Pasted image 20260224213011.png",
-    "Labs/THM/assets/Pasted image 20260224212401.png",
     "AD/kerbrute脚本枚举用户名.md",
-    "AD/ldapsearch 空会话时可以使用.md",
-    "Enumeration/Nmap详细扫描.md",
-    "AD/bloodhound启动命令.md",
-    "AD/获取凭据后建立远程连接（powershell).md",
-    "AD/lookupsid.py 匿名拉取目标域用户名.md",
-    "AD/netexec 匿名与空会话时.md",
-    "Reverse shell/Linux",
-    "Reverse shell/Windows"
+    "Reverse shell/Linux"
   ]
 }
