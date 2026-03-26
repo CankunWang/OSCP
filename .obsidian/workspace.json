@@ -226,8 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c95c5a11f5843afb",
+  "active": "c9a17fd0c37d909b",
   "lastOpenFiles": [
+    "PrivEsc/Linux/WLoWZHWs",
+    "PrivEsc/Linux/y0kdrsdV",
+    "Labs/THM/oqcbzCFR",
     "Labs/THM/Theseus - 命令速查.md",
     "PrivEsc/Linux/Linux本地快速枚举命令.md",
     "PrivEsc/Linux/SSH多跳与非交互密码登录.md",
@@ -265,14 +268,11 @@
     "test.md",
     "PrivEsc/Windows/msf后渗透提权路径检查.md",
     "README.md",
-    "g7IIXXAE",
     "AD/RBCD attack.md",
     "PrivEsc/Windows/文件系统错误配置.md",
     "PrivEsc/Windows/弱权限服务文件.md",
     "PrivEsc/Windows/服务配置错误.md",
     "AD/Checklists/AD域 checklists.md",
-    "AD/Checklists/Windows提权 checklist.md",
-    "AD/kerbrute脚本枚举用户名.md",
-    "Reverse shell/Linux"
+    "AD/Checklists/Windows提权 checklist.md"
   ]
 }

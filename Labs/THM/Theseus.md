@@ -350,16 +350,7 @@ THM{bb2af471e0aea04e982c2e5d0a6fa404}
 | **Minotaur_Flag**  | THM{c307b8045208fac06b9faa90e68d2ad4} |                   |
 | **Athens_flag**    | THM{bb2af471e0aea04e982c2e5d0a6fa404} |                   |
 
-### 3. Completion Checklist
-- [x] Confirm SSTI and gain command execution as 'minos'.
-- [x] Recover 'Minos_Flag'.
-- [x] Pivot to 'Labyrinth' with 'entrance / Knossos'.
-- [x] Exploit 'labyrinth' to obtain a 'minotaur' shell.
-- [x] Recover 'Labyrinth_Flag'.
-- [x] Exploit 'thread' to retrieve 'ariadne / TheLover'.
-- [x] Switch to 'ariadne' and recover 'Minotaur_Flag'.
-- [x] Repair the hidden JPEG clue and derive 'shore / KingAegeus'.
-- [x] Log in to 'Athens' and recover 'Athens_flag'.
+
 
 ## Conclusion
 
