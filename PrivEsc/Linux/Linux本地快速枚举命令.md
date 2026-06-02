@@ -15,6 +15,7 @@ find /home -maxdepth 2 -type f 2>/dev/null | sort
 file <file>
 strings -n 8 <file> | head -n 20
 xxd -l 96 <file>
+find / -perm -4000 -type f 2>/dev/null
 ```
 
 适合先筛出：

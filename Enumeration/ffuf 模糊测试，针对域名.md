@@ -8,3 +8,5 @@ syntax: 'ffuf -w /usr/share/wordlists/dirb/common.txt -u http://10.81.156.97/ -H
 ffuf -u http://<ip> -H "Host: FUZZ.thm" -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
 
 ```
+
+
