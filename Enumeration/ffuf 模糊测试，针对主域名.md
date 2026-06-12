@@ -8,5 +8,7 @@ syntax: 'ffuf -w /usr/share/wordlists/dirb/common.txt -u http://10.81.156.97/ -H
 ffuf -u http://<ip> -H "Host: FUZZ.thm" -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt
 
 ```
-
-
+用下面这个字典枚举主域名也可以，更好一些
+```
+ffuf -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt -u http://10.129.229.26/ -H "Host: FUZZ.htb" -ac
+```
